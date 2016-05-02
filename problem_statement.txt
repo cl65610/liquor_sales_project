@@ -1,0 +1,7 @@
+Problem Statement
+
+As requested by the Iowa State Legislature, we will investigate patterns and trends in liquor sales over the course of a fiscal year. This study will require both analysis and modeling.
+
+In order to most effectively decide whether or not to levy a new tax, and if so, at what level, you must first understand how this tax would affect your stakeholders. In order to give you as much information as possible during your decision making, we will not only calculate some state-wide statistics, but we will also break down state sales geographically, highlighting areas where potential tax revenue may be coming from. We will also do work to determine whether any liquor specific taxes might be advantageous. For example, should whiskeys and vodkas be taxed at different rates?
+
+In order to make these recommendations, we will first create a model of overall liquor sales in Iowa. After that, we will look into some key subcategories and examine the effects of our changes across those groups. 
